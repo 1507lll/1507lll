@@ -41,7 +41,7 @@
             }
 
             function pageRedirect() {
-                window.location.href = "https://adinur.herokuapp.com//";
+                window.location.href = "https://www.google.com/";
             }   
          
 
