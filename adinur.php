@@ -29,7 +29,7 @@
 </head>
 <body>
 
-    <img src="1234.jfif" alt="">
+    <img src="1234.jpg" alt="">
     
 </body>
 </html>
