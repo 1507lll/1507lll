@@ -41,7 +41,7 @@
             }
 
             function pageRedirect() {
-                window.location.href = "https://www.google.com/";
+                window.location.href = "adinur.php";
             }   
          
 
