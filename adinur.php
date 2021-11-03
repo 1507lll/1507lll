@@ -14,10 +14,25 @@
      
 </style>     
 <pre><h1 syle="text-align: center;">                                         my Portofolio:
-<pre><h2>Name:  Adinur</h2></pre>
-<pre><h2>Info: I live in Bishkek. 17 years old</h2></pre>                  
-<pre><h2>Phone number: 0558559989</h2></pre>
+<pre><h2>Name:  Adilov Beksultan</h2></pre>
+<pre><h2>Info: I live in Bishkek. 29 years old</h2></pre>                  
+<pre><h2>Phone number: 0707706701</h2></pre>
 <img src="index.jpg" alt="">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <img src="1234.jfif" alt="">
+    
+</body>
+</html>
 
 <pre><h1;">
 </body>
