@@ -14,9 +14,9 @@
      
 </style>     
 <pre><h1 syle="text-align: center;">                                         my Portofolio:
-<pre><h2>Name:  Adilov Beksultan</h2></pre>
+<pre><h2>Name:  Adilov </h2></pre>
 <pre><h2>Info: I live in Bishkek. 29 years old</h2></pre>                  
-<pre><h2>Phone number: 0707706701</h2></pre>
+<pre><h2>Phone number: 0558559989</h2></pre>
 <img src="index.jpg" alt="">
 
 <!DOCTYPE html>
