@@ -1,41 +1,30 @@
-<html>
-<body>
-     <style>
-     .rihgtimg{
-           float: right;
-           marging: 7px 0 7px 7px;
-     }   
-     
-     
-  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>   
-     
-     
-     
-     
-</style>     
-<pre><h1 syle="text-align: center;">                                         my Portofolio:
-<pre><h2>Name:  Adilov </h2></pre>
-<pre><h2>Info: I live in Bishkek. 29 years old</h2></pre>                  
-<pre><h2>Phone number: 0558559988</h2></pre>
-<img src="index.jpg" alt="">
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-    <img src="1234.jpg" alt="">
-    
-</body>
-</html>
-
-<pre><h1;">
-</body>
-</html>
+<!DOCTYPE html> 
+<html lang="en" dir="ltr"
+  <head>
+      <meta charset="utf-8">
+      <title>Animated Login Form</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="center">
+            <h1>Login</h1>
+            <form method="post">
+                <div class="txt_field">
+                    <input type="text" required>
+                    <span></span>
+                    <label>Username</label> 
+                </div>
+                <div class="txt_field">
+                    <input type="password" required>
+                    <span></span>
+                    <label>Password</label> 
+                </div>
+                <div class="pass">forgot Password?</div>
+                <input type="sumdit" value="Login">
+                <div class="signup_link">
+                    Not a member? <a href="#">Signup</a>
+                </div>
+            </form>
+         </div>
 
      
